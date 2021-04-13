@@ -4,4 +4,5 @@ git w
 git add 
 readme
 
-master branch
+merge master and feature1 branch
+
